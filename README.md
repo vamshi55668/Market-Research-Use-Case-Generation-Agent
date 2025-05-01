@@ -10,7 +10,8 @@ This project implements a multi-agent architecture system designed to generate r
 - **Final Proposal Generator**: Compiles top use cases and resources into a final actionable report.
 
 ## Architecture Flowchart
-The architecture flowchart is generated programmatically using Graphviz and saved as `multi_agent_architecture.png`.
+
+
 
 ## How to Run
 1. Install dependencies:
