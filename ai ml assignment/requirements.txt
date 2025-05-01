@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+streamlit
+matplotlib
+networkx
+selenium
+webdriver-manager

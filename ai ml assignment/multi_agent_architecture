@@ -1,0 +1,11 @@
+// Multi-Agent Architecture
+digraph {
+	A [label="Industry/Company Research Agent"]
+	B [label="Market Standards & Use Case Generation Agent"]
+	C [label="Resource Asset Collection Agent"]
+	D [label="Final Proposal Generator"]
+	A -> B [label="Industry & Company Insights"]
+	B -> C [label="Use Cases"]
+	C -> D [label="Resource Assets & Links"]
+	A -> D [label="Company Goals & Focus Areas"]
+}
